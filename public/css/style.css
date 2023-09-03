@@ -1,0 +1,26 @@
+.flex ul{
+justify-content: space-between !important;
+list-style: none;
+}
+nav img{
+    height: 36px;
+}
+.size{
+    height: 24px;
+    width: 980px !important;
+    padding-left: 25px;
+    padding-right:25px ;
+}
+.text-info{
+    padding-left: 249px;
+}
+.container{
+    margin-left: 64px !important;
+}
+.img-kh{
+    height: 70% !important;
+    width: 88% !important;
+}
+footer{
+    background-color: black;
+}
