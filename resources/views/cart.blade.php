@@ -198,7 +198,7 @@
         <div class="heading_s1 mb-3">
           <h6 class="text-center">Điền thông tin mua hàng</h6>
         </div>
-        <form class="" action="{{route('post.complete')}}" method="POST" id="form-infor" enctype="multipart/form-data">
+        <form class="" action="{{route('post.complete')}}" method="POST" id="" enctype="multipart/form-data">
           @csrf
           <div class="form-row">
             <div class="form-group col-lg-12 mb-3">
